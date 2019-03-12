@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Texto original
-=======
 Modificacion del texto.
->>>>>>> branch1
